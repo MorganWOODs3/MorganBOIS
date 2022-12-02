@@ -1,3 +1,7 @@
+# Lien github
+# git@github.com:MorganWOODs3/MorganBOIS.git
+
+
 from PyQt5.QtWidgets import *
 from PyQt5 import uic
 import socket
